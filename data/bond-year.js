@@ -11,7 +11,7 @@
                 "Composer": "Christopher Lennertz",
                 "Budget":"$20,000,000.00M per episode",
                 "BoxOffice":"$46,400,000M(United States)",
-                "Image":""
+                "Image":"Acrimony.jpg"
               },
               {
                 "Film":2,
